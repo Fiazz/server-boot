@@ -1,1 +1,1 @@
-# server-boot
+# server-rest-service
